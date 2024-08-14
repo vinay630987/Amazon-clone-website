@@ -1,4 +1,4 @@
-Amazon Clone Website
+# Amazon Clone Website
 
 This is a clone of the Amazon website, created as a demonstration of building an e-commerce platform interface using HTML, CSS, and JavaScript. The project includes product details, cart functionality, and sign-in/sign-up options. The website is fully responsive, ensuring an optimal user experience on all devices.
 Live Demo
